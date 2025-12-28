@@ -1,16 +1,52 @@
 ## Hi there 👋
 
-<!--
-**Mohammad-Waris/Mohammad-Waris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Mohammad Waris 👋
 
-Here are some ideas to get you started:
+ Computer Science student at the University of Delhi  
+ Aspiring Software Developer | Problem Solver  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  About Me
+
+I am a Computer Science undergraduate with a strong interest in software development and core computer science fundamentals.
+
+Currently, I am focusing on **Data Structures & Algorithms using C++**, along with subjects like **DBMS and OOPs**. I enjoy solving problems, understanding algorithms deeply, and writing clean, efficient code.
+
+---
+
+## Skills
+
+- **Programming Language:** C++
+- **Core CS:** Data Structures & Algorithms, DBMS, OOPs
+- **Database:** SQL (Basics)
+- **Tools:** Git, GitHub
+
+---
+
+##  Currently Learning
+
+- Advanced DSA (Trees, Graphs, Recursion)
+- Database Management Systems
+- Time and Space Complexity Analysis
+
+---
+
+##  Goals
+
+- Secure a **Software Development Internship**
+- Improve problem-solving skills
+- Build strong academic and personal projects
+
+---
+
+##  Projects
+
+- **DSA Implementations in C++**  
+  Implemented stacks, queues, linked lists, trees, and recursion-based solutions.
+
+(More projects coming soon 🚀)
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
