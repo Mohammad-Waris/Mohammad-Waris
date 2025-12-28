@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Mohammad Waris 👋
 
  Computer Science student at the University of Delhi  
