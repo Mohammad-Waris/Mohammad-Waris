@@ -15,8 +15,8 @@ Currently, I am focusing on **Data Structures & Algorithms using C++**, along wi
 
 ## Skills
 
-- **Programming Language:** C++
-- **Core CS:** Data Structures & Algorithms, DBMS, OOPs
+- **Programming Language:** C, C++
+- **Core CS:** Data Structures & Algorithms, DBMS, OOPs, OS
 - **Database:** SQL (Basics)
 - **Tools:** Git, GitHub
 
@@ -35,15 +35,6 @@ Currently, I am focusing on **Data Structures & Algorithms using C++**, along wi
 - Secure a **Software Development Internship**
 - Improve problem-solving skills
 - Build strong academic and personal projects
-
----
-
-##  Projects
-
-- **DSA Implementations in C++**  
-  Implemented stacks, queues, linked lists, trees, and recursion-based solutions.
-
-(More projects coming soon 🚀)
 
 ---
 
